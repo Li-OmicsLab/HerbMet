@@ -7,7 +7,6 @@ from typing import Dict, Literal
 import pandas as pd
 
 warnings.simplefilter("ignore")
-import delu  # Deep Learning Utilities: https://github.com/Yura52/delu
 import numpy as np
 import scipy.special
 import sklearn.datasets
@@ -23,6 +22,7 @@ from tqdm.std import tqdm
 from imblearn.under_sampling import RandomUnderSampler
 from imblearn.over_sampling import RandomOverSampler
 from sklearn.preprocessing import StandardScaler
+import delu
 import shap
 
 warnings.resetwarnings()

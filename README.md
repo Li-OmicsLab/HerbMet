@@ -35,4 +35,4 @@ This article presents HerbMet, an AI-based system for accurately identifying Chi
     python main.py
     ```
 
-**Notable:** For privacy and security reasons, the dataset cannot be upload to GitHub or Google Drive. If you are interseted in our project or dataset, please contact with us (syyshayuyang@163.com). 
+**Notable:** For privacy and security reasons, the dataset cannot be upload to GitHub or Google Drive. If you are interseted in our project or dataset, please contact with us. 
